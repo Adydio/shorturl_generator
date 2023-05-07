@@ -8,11 +8,11 @@
 
 实例：输入```https://www.baidu.com/s?wd=The%20current%20Flask%20app%20is%20not%20registered%20with%20this%20%27SQLAlchemy%27%20instance.%20Did&pn=10&oq=The%20current%20Flask%20app%20is%20not%20registered%20with%20this%20%27SQLAlchemy%27%20instance.%20Did&tn=98010089_dg&ie=utf-8&ch=27&rsv_pq=ab5f412b001d228c&rsv_t=216c7P0ZDISrLnGkOZL%2FsPAr3mRaXzK1uoc03YhYlr6NTGnL%2FBtPBqtrKdUM97fV0dI```
 
-![image-20230507193516874](static/1.png)
+![](static/1.png)
 
 点击生成，得到的输出如下：
 
-![image-20230507193516874](../../../blog/themes/new2/source/img/2-16834594419224.png)
+![](static/2.png)
 
 点击短链接立刻成功转到长链接对应的页面。
 
